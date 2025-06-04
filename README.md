@@ -63,14 +63,22 @@ portfolio/
 - Professional social media links
 - Downloadable resume option
 
+<<<<<<< HEAD
 ## 📄 License
 
 This project is open source and available under the [MIT License](LICENSE).
 
+=======
+>>>>>>> 2f0ec2d4795addedbb91d6b5005e25584fe77a3f
 ## 📞 Contact
 
 Feel free to reach out if you have any questions or suggestions!
 
 - Email: varshithyadavalli@gmail.com
 - LinkedIn: [Varshith Yadavalli](https://www.linkedin.com/in/varshithyadavalli/)
+<<<<<<< HEAD
 - GitHub: [varshith0531](https://github.com/varshith0531) 
+=======
+- GitHub: [varshith0531](https://github.com/varshith0531)
+  
+>>>>>>> 2f0ec2d4795addedbb91d6b5005e25584fe77a3f
